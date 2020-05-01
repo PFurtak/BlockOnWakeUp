@@ -1,0 +1,40 @@
+{
+  "name": "blockon",
+  "version": "0.0.1",
+  "description": "Social media for the FGC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Social",
+    "Media",
+    "FGC",
+    "Fighting",
+    "Games",
+    "Node",
+    "Express",
+    "React",
+    "MongoDB",
+    "GraphQL",
+    "Tailwind",
+    "CSS"
+  ],
+  "author": "pfurtak",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "concurrently": "^5.2.0",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "express-validator": "^6.4.1",
+    "graphql": "^15.0.0",
+    "gravatar": "^1.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.11",
+    "nodemon": "^2.0.3",
+    "request": "^2.88.2"
+  }
+}
